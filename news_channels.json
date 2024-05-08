@@ -1,0 +1,19 @@
+{
+  "news_channels": [
+    {
+      "id": "1",
+      "name": "CNN",
+      "url": "https://www.cnn.com"
+    },
+    {
+      "id": "2",
+      "name": "BBC News",
+      "url": "https://www.bbc.com/news"
+    },
+    {
+      "id": "3",
+      "name": "Reuters",
+      "url": "https://www.reuters.com"
+    }
+  ]
+}
